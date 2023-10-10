@@ -38,7 +38,7 @@ A Remote-Access-Trojan written in C# and XAML with many Features
   + Keylogger
 
 # Author
-### 0xYZ
+## 0xYZ
 
 # Showcase
 ![image](https://github.com/ASMRoyal/0xR4T/assets/89786570/8abff3a8-22fd-4590-a93e-0ec8ee0f8c11)
