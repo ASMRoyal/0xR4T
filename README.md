@@ -47,6 +47,16 @@ A Remote-Access-Trojan written in C# and XAML with many Features
 ---
 
 # Showcase
-![image](https://github.com/ASMRoyal/0xR4T/assets/89786570/8abff3a8-22fd-4590-a93e-0ec8ee0f8c11)
+## Slaves:
+
+![image](https://github.com/ASMRoyal/0xR4T/assets/89786570/8ac1e693-95d0-4a62-a2d2-15080e9ec27f)
+
+## Network:
+
+![image](https://github.com/ASMRoyal/0xR4T/assets/89786570/5ef89744-1807-4e6d-bb91-68f8623c5dab)
+
+## Builder:
+
+![image](https://github.com/ASMRoyal/0xR4T/assets/89786570/7eb757cc-527a-44d5-b946-ca1e0294e275)
 
 ---
